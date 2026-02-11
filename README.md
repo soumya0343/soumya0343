@@ -91,9 +91,12 @@ Applied econometric and time-series analysis to study cross-market correlations 
 
 ## 🤝 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINK  
+- LinkedIn: https://www.linkedin.com/in/soumya-gupta-9bb270263/
 - Email: soumya0343@gmail.com  
-- GitHub: https://github.com/soumya0343  
+- GitHub: https://github.com/soumya0343/
+- Substack: https://substack.com/@soumya343/
+- Medium: https://medium.com/@soumya0343/
+- X/Twitter: https://x.com/soumyaa0343/
 
 ---
 

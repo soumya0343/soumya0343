@@ -87,15 +87,6 @@ Applied econometric and time-series analysis to study cross-market correlations 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumya0343&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya0343&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/YOUR-LINK  

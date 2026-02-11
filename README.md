@@ -1,8 +1,10 @@
-## Hi there 👋 I'm Soumya Gupta
+## Soumya Gupta
 
-🎓 Final Year ECE @ BITS Pilani, Goa Campus  
+Hi there 👋  
+
+🎓 Final Year Electronics & Communication Engineering @ BITS Pilani, Goa  
 💻 Full-Stack Developer (Frontend-Focused) | AI Enthusiast | FinTech Interested  
-🚀 I build clean, scalable, and user-centric web applications  
+🚀 I design and build scalable, high-quality web applications with a focus on performance and user experience  
 
 ---
 
